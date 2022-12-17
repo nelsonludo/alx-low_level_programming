@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * the main here just displays a message
+ * main -  here just displays a message
  */
 
 int main(void)
