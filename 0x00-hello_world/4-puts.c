@@ -2,6 +2,8 @@
 
 /**
  * main -  here just displays a message
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
