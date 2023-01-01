@@ -15,6 +15,7 @@ int main(void)
 	{
 
 		for (m = '1'; m <= '9'; m++)
+		{
 			putchar(n);
 			putchar(m);
 			if (m == '9')
@@ -22,6 +23,7 @@ int main(void)
 
 			putchar(',');
 			putchar(' ');
+		}
 	}
 
 	putchar('\n');
