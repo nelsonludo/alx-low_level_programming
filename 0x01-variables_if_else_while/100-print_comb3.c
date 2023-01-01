@@ -14,15 +14,16 @@ int main(void)
 	for (n = '0'; n <= '8'; n++)
 	{
 
-		for (m = '1'; m <= '9'; m++)
+		for (m = n + 1; m <= '9'; m++)
 		{
-			putchar(n);
-			putchar(m);
-			if (n == '8')
-				break;
+			if (m != n)
+				putchar(n);
+				putchar(m);
+				if (n == '8')
+					break;
 
-			putchar(',');
-			putchar(' ');
+				putchar(',');
+				putchar(' ');
 		}
 	}
 
