@@ -2,7 +2,7 @@
 
 /**
  * print_sign- Check Description
- * @c: An input number
+ * @n: An input number
  * Description: function uses _putchar function to print
  * checks if a number is negative, equals to 0 or negative
  * Return: 1 if positive, 0 if zero or -1 if negative
