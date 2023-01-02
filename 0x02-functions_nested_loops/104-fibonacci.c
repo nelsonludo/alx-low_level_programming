@@ -9,7 +9,7 @@
 int main(void)
 {
 	int i;
-	long int fibonacci[98], sum = 2;
+	long int fibonacci[98];
 
 	fibonacci[0] = 1;
 	fibonacci[1] = 2;
