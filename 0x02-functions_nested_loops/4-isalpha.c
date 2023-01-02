@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha - Check Description 
+ * _isalpha - Check Description
  * @c: An input character
  * Description: function uses _putchar function to print
  * alphabet in lowercase 10 times
