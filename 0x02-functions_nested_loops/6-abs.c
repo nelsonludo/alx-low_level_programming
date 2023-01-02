@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * abs- Check Description
+ * _abs- Check Description
  * @n: An input number
  * Description: function uses _putchar function to print
  * returns the absolute value of a number
- * Return: the absolute value of a number 
+ * Return: the absolute value of a number
  */
 
 int _abs(int n)
