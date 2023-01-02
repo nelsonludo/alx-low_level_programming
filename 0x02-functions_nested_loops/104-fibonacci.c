@@ -20,10 +20,8 @@ int main(void)
 	}
 	for (i = 0; i < 98; i++)
 	{
-		if (i != 98)	
-			printf("%ld, ", fibonacci[i]);
-	
 		printf("%ld, ", fibonacci[i]);
+
 	}
 		printf("\n");
 	return (0);
