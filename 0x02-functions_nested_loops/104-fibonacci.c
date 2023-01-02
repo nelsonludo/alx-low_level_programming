@@ -18,10 +18,10 @@ int main(void)
 	{
 		fibonacci[i] = fibonacci[i - 1] + fibonacci[i - 2];
 	}
-	for (i = 0; i < 98; i ++)
+	for (i = 0; i < 98; i++)
 	{
-		printf("%ld\n", fibonacci[i]);
+		printf("%ld", fibonacci[i]);
 	}
-
+	printf("\n", fibonacci[i]);
 	return (0);
 }
